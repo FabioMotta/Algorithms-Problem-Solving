@@ -1,6 +1,6 @@
 //  Autor: Fabio Motta
 //  Date: 26.11.2019
-//  Program which takes an (n, m) matrix (dynamic 2D array) as input (user defined) and returns transpose of it
+//  Program, which takes an (n, m) matrix (dynamic 2D array) as input (user defined) and returns transpose of it
 
 #include <iostream>
 #include <sstream>
